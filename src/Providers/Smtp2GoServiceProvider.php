@@ -1,10 +1,10 @@
 <?php
 
-namespace Motomedialab\Smtp2Go\Providers;
+namespace Neoistone\Smtp2Go\Providers;
 
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\ServiceProvider;
-use Motomedialab\Smtp2Go\Transports\Smtp2GoTransport;
+use Neoistone\Smtp2Go\Transports\Smtp2GoTransport;
 
 class Smtp2GoServiceProvider extends ServiceProvider
 {
