@@ -2,7 +2,7 @@
     "name": "neoistone/laravel-smtp2go",
     "type": "library",
     "license": "MIT",
-    "version" : 1.0,
+    "version" : 1.0
     "description": "Send emails via API using the first-class email courier SMTP2Go",
     "require": {
         "php": "^8.1",
